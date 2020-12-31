@@ -1,0 +1,41 @@
+.navWrapper {
+    display: flex !important;
+    flex-direction: row !important;
+    width: 100% !important;
+    background: gainsboro !important;
+    height: 10vh !important;
+    justify-content: space-around!important;
+    align-items: center;
+}
+
+.Links {
+    width: 50%;
+    display: flex !important;
+    flex-direction: row !important;
+    justify-content: space-around !important;
+    list-style-type: none;
+    font-size: 3vh;
+}
+.navlink {
+    color: black !important;
+}
+
+.navlink:hover{
+text-decoration: underline;
+}
+
+.Logo {
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5vh;
+    font-weight: 900 !important;
+    font-size: 3vh;
+    letter-spacing: 0.2vw;
+
+}
+
+.Logo a {
+    color: black !important;
+}
+

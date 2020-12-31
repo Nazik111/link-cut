@@ -1,0 +1,18 @@
+.cardWrapper {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+}
+
+.block_link {
+    font-weight: 700;
+    margin-top: 20vh;
+    font-size: 3vh;
+}
+
+.header_link {
+    font-size: 7vh !important;
+    text-align: center;
+    padding-bottom: 2vh;
+}

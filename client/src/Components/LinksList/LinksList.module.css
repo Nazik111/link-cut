@@ -1,0 +1,15 @@
+.tableWrapper {
+    display: flex !important;
+    flex-direction: row;
+    justify-content: space-around !important;
+    padding-top: 10vh;
+
+    align-self: center !important;
+    text-align: center !important;
+}
+
+.tableWrapper div {
+    width: 75%;
+}
+
+

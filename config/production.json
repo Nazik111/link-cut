@@ -1,0 +1,6 @@
+{
+  "port" : 5000,
+  "mongoURI": "mongodb+srv://Nazar:1111@cluster0.kumu0.mongodb.net/MyWeb?retryWrites=true&w=majority",
+  "jwtSecret": "hello world",
+  "baseUrl": "http://localhost:5000"
+}
